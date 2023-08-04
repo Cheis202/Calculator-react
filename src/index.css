@@ -331,3 +331,20 @@ body{
 .b-eq.dark:active{
   background-color: #94fff9;
 }
+
+
+
+@media (max-width: 420px) {
+  .top{
+    width: 330px;
+  }
+  .results{
+    width: 330px;
+  }
+  .container{
+    width: 330px;
+  }
+  .container-button{
+    width: 310px;
+  }
+}
